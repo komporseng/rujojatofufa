@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://rujojatofufa.netlify.app/sitemap.xml
